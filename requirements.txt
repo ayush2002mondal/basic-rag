@@ -1,5 +1,6 @@
 python-dotenv
 
+#Framework for using llm
 langchain
 langchain-core
 langchain-community
