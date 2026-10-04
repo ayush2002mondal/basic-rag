@@ -13,13 +13,6 @@ Instead of manually searching through lengthy policy documents, users can simply
 </p>
 
 ---
-
-## 🌐 Live Demo
-
-**[Your Friendly HR — Try it here](https://yourfriendlyhr.streamlit.app/)**
-
----
-
 ## 📌 About the Project
 
 Your Friendly HR is a conversational AI assistant designed to simplify access to company HR policies.
